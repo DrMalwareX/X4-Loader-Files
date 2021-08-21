@@ -1,1 +1,1 @@
-import osasd
+import os
